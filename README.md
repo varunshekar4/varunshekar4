@@ -1,6 +1,6 @@
-### Hi there 👋
-print("Hi iam varun")
-print("student at JNNCE")
+### Hi there �
+Hi iam varun 😀
+student at JNNCE 😊
 
 <!--
 **varunshekar4/varunshekar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
